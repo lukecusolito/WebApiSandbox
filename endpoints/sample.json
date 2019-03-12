@@ -1,0 +1,10 @@
+{
+    "endpoint": "/api/sample/{id?}",
+    "method": "GET",
+    "statusCode": 200,
+    "delayResponse": 1000,
+    "response": {
+        "Message": "Hello World",
+        "Errors": []
+    }
+}
